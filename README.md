@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dylan-Cahill
 - 👀 I’m interested in electronics, learning new things, and (playing) sports
-- 🌱 I’m currently learning how to use github
+- 🌱 I’m currently learning how to play Pickleball
 - 💞️ I’m looking to collaborate on test jigs
 - 📫 How to reach me: Usually an arm or leg
 - 😄 Pronouns: He/Him
